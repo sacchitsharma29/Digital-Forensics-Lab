@@ -78,4 +78,4 @@ Disclaimer
 
 The content of this repository is for educational and ethical digital forensic research purposes only. All investigations and analysis must be conducted on authorized systems and devices only. Unauthorized access, acquisition, or examination of digital data is strictly prohibited and may be illegal.
 
-Author: ANSHUMAN RAJ SINGH
+Author: SACCHIT SHARMA
