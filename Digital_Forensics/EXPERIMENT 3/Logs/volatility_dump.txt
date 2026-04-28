@@ -11,3 +11,88 @@ PID    PPID    ImageFileName    Offset          Threads    Session    Time
 # Running windows.netscan
 Offset          Proto    Local Address    Foreign Address    State    PID
 0xe000108...    TCPv4    192.168.1.15:443 104.21.45.12:443   ESTAB    4812
+
+
+PS C: \Users\krish\Downloads\volatility3-win-exes-2.27.0> .\vol.exe -f"C: \Users\krish\DownLoads\Comae-Toolkit-v20230117\x64\K-2026030
+6-052434. dmp" windows, malfind Volatility 3 Framework 2.27.0
+volatility3\framework\deprecation.py:28: FutureWarning: This API (volatility3.plugins. windows. malware.malfind.Malfind.run) will be re moved in the first release after 2026-06-07. This plugin has been renamed, please call volatility.plugins. windows. malware.malfind. Ma Ifind rather than volatility3.plugins. windows. malfind. Malfind.
+PID
+Process Start VPN
+End VPN Tag
+Protection CommitCharge PrivateMemory File output
+Notes Hexdump Disas
+volatility3\framework\deprecation.py:105: FutureWarning: This plugin (volatility3.plugins.windows.malfind.Malfind) has been renamed a nd will be removed in the first release after 2026-06-07. Please ensure all method calls to this plugin are replaced with calls to vo latility3.plugins.windows.malware.malfind.Malfind
+3904
+Dell.TechHub.e Ox7ff8a9fc0000 Ox7ff8a9fcffff Vad
+PAGE_EXECUTE_READWRITE •
+Disabled
+N/A
+--
+-
+--
+--
+--
+------
+-----
+--
+............ . . ٠٠ -
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+0x7ff8a9fc0000:
+add
+byte
+ptr
+0x7ff8a9fc0002:
+add
+[rax]
+byte
+ptr
+0x7ff8a9fc0004:
+add
+[rax]
+byte
+0x7ff8a9fc0006: add
+ptr
+[rax]
+byte
+ptr
+0x7ff8a9fc0008: add
+byte
+[rax.
+ptr
+0x7ff8a9fc000a:
+add
+Erax_
+byte 0x7ff8a9fc000c:
+add
+byte
+ptr
+lraxl
+ptr
+0x7ff8a9fc000e: add
+byte
+[rax!
+ptr
+0x7ff8a9fc0010:
+add
+Erax]
+byte ptr
+[rax],
+0x7f89c0012: add
+byte ptr
+Lraxl,
